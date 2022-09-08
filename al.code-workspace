@@ -5,6 +5,9 @@
                     },
                     {
                         "path":  "BCDemo"
+                    },
+                    {
+                        "path":  "BCDemo.Test"
                     }
                 ],
     "settings":  {
